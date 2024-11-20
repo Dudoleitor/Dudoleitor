@@ -27,7 +27,7 @@ Here are some of the projects I've worked on.
 
 ---
 
-### [**My Shelfie**]([https://github.com/yourusername/repositoryE](https://github.com/Dudoleitor/My-Shelfie))
+### [**My Shelfie**](https://github.com/Dudoleitor/My-Shelfie)
 **Date**: June 2023  \
 **Description**: Online multiplayer version of a board game. \
 **Skills**: Java, Design Patterns, Software Engineering.
