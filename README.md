@@ -1,8 +1,8 @@
-## Hi there 👋
+# Hi there 👋
+## Welcome to my GitHub Profile
 
-# Welcome to My GitHub Profile
-
-Hello! I'm a Computer Science and Engineering student currently pursuing a double degree program with Politecnico di Milano and the University of Illinois at Chicago. Below are some of the projects I've worked on.
+I'm a Computer Science and Engineering student currently pursuing a double degree program with Politecnico di Milano and the University of Illinois at Chicago. My main interests and research areas are **cybersecurity** and **operating systems**. \
+Here are some of the projects I've worked on.
 
 ---
 
