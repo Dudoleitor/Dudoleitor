@@ -1,16 +1,39 @@
 ## Hi there 👋
 
-<!--
-**Dudoleitor/Dudoleitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to My GitHub Profile
 
-Here are some ideas to get you started:
+Hello! I'm a Computer Science and Engineering student currently pursuing a double degree program with Politecnico di Milano and the University of Illinois at Chicago. Below are some of the projects I've worked on.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Main Projects
+
+### [**HomeLab**](https://github.com/Dudoleitor/HomeLab)
+**Description**: Ansible code and Kubernetes deployments to self host open source services.
+
+---
+
+### [**AuctionWebsite**](https://github.com/Dudoleitor/AuctionWebsite)
+**Date**: August 2023 \
+**Description**: Website for online auctions, with a MySQL backend and deployable in Kubernetes. \
+**Skills**: Javascript, Java, SQL, HTML&CSS, Kubernetes, Calico.
+
+---
+
+### [**Vertical Scale To Zero**](https://github.com/Dudoleitor/VerticalScaleToZero)
+**Date**: August 2024 \
+**Description**: Scaling resources of Kubernetes pods to zero, enabling resource optimization and cost reduction. \
+**Skills**: Go, Kubernetes, Autoscaling, Proxies.
+
+---
+
+### [**My Shelfie**]([https://github.com/yourusername/repositoryE](https://github.com/Dudoleitor/My-Shelfie))
+**Date**: June 2023  \
+**Description**: Online multiplayer version of a board game. \
+**Skills**: Java, Design Patterns, Software Engineering.
+
+---
+
+Feel free to explore the repositories and contribute! You can find all the code in the respective repositories linked above.
+
+
