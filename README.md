@@ -9,7 +9,7 @@ Here are some of the projects I've worked on.
 ## Main Projects
 
 ### [**HomeLab**](https://github.com/Dudoleitor/HomeLab)
-**Description**: Ansible code and Kubernetes deployments to self host open source services.
+**Description**: Ansible code and Kubernetes deployments to securely self host open source services.
 
 ---
 
