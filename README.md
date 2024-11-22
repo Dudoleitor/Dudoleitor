@@ -34,6 +34,13 @@ Here are some of the projects I've worked on.
 
 ---
 
+### [**SmartNIC, Porting Ensō**](https://github.com/necst/Hpps24-smartnic)
+**Date**: July 2024  \
+**Description**: Packet filtering module integrated with AMD's SmartNIC OpenNIC. \
+**Skills**: FPGA, SmartNIC, HLS, Verilog.
+
+---
+
 Feel free to explore the repositories and contribute! You can find all the code in the respective repositories linked above.
 
 
